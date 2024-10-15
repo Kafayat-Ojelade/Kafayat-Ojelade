@@ -4,12 +4,12 @@ Hi 👋 My name is Kafayat Ojelade
 I am a Data Enthusiast
 ----------------------
 
-I'm a a fervent enthusiast delving deep into the worlds of data analysis and visualization. Driven by a passion for uncovering insights and presenting them visually, I'm committed to continuous learning and honing my skills in this dynamic field.
+I'm a fervent enthusiast delving deep into the worlds of data analysis and visualization. Driven by a passion for uncovering insights and presenting them visually, I'm committed to continuous learning and honing my skills in this dynamic field.
 
 * 🌍  I'm based in Lagos, Nigeria
 
 ### Skills
-I am currently honning my skilss in:\
+I am currently honing my skills in:\
 Spreadsheet 📈 \
 Programming Languages: MySQL 💻\
 Data Visualization: Microsoft Power BI 📊
